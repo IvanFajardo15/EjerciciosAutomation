@@ -5,7 +5,7 @@ module.exports = defineConfig({
     setupNodeEvents(on, config) {
       // implement node event listeners here
     },
-    specPattern : "cypress/Integration/Ejemplos/*.js",
+    specPattern : "cypress/Integration/Ejemplos/*.js",  
     projectId: "1gykpj",
   },
 });
