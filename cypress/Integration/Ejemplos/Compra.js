@@ -4,6 +4,7 @@ import Cart from "../PagesObjects/Cart"
 import PlaceOrder from "../PagesObjects/PlaceOrder"
 import FinishOrder from "../PagesObjects/FinishOrder"
 
+
 it('Ejercicio DemoBlaze',()=>{
 
     const homePage = new HomePage()
