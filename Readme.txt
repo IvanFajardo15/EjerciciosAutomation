@@ -14,4 +14,6 @@ A continuación algunas recomendaciones de como realizar la ejecución del proye
 
 - Dar click en la opción 'Start E2E testing in <navegador>'.
 
-- Por defecto se muestra seleccionada la opción 'Specs' en el menú lateral, allí solamente dando click en el spec 'Compra.js' se hará la ejecución del caso de prueba.
+- Por defecto se muestra seleccionada la opción 'Specs' en el menú lateral, allí solamente dando click en el spec 'Compra.js' se hará la ejecución del caso de prueba para el ejercicio de automatización E2E.
+
+- Si se quiere ejecutar el caso de preuba del ejercicio de API, se debe dar click al spec 'Spec.js' en la misma sección.
